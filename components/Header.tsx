@@ -52,7 +52,7 @@ function Header() {
           <img
           onClick={logout}
             src="https://rb.gy/g1pwyx"
-            alt=""
+            alt=" netflix logo"
             className="cursor-pointer rounded"
           />
         {/* </Link> */}
